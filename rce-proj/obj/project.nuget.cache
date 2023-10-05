@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pa9JZdNOUHnW5jc8pKUgkxk+oj1KkkGdbrc329dW844i41WblOeVZ0LQ9/HQGhNuauamv5LjppjCb+vl8TvbBg==",
+  "success": true,
+  "projectFilePath": "/home/flame/projects/csproj-rce/rce-proj/rce-proj.csproj",
+  "expectedPackageFiles": [
+    "/home/flame/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
